@@ -2,6 +2,7 @@
 
 Este projeto utiliza a poderosa biblioteca **Streamlit** para exibir dados e tabelas de forma rápida, dinâmica e de fácil compreensão.  
 Em poucas linhas, vamos criar um dashboard com múltiplas páginas e informações dinâmicas, aproveitando a simplicidade da combinação de **Python** e **Streamlit**.
+link para a aplicação : https://dadosfifa23diegoribeiroapp.streamlit.app/
 
 ---
 
